@@ -1,5 +1,4 @@
 import pygame as pg
-import matplotlib as plt
 
 #pygame ab Version 2.0 wird benötigt
 #Installation im Terminal mit 
